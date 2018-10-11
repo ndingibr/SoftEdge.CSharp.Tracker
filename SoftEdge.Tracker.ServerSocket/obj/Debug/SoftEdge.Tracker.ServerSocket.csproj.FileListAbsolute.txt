@@ -1,0 +1,13 @@
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe.config
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.pdb
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\LahoreSocketAsync.dll
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\LahoreSocketAsync.pdb
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.csprojAssemblyReference.cache
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.ProjectInstaller.resources
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.ServerSocker.resources
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.csproj.GenerateResource.cache
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.csproj.CoreCompileInputs.cache
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.csproj.CopyComplete
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.exe
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\obj\Debug\SoftEdge.Tracker.ServerSocket.pdb

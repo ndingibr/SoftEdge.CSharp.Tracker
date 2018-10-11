@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.InstallLog
+   assemblypath = C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe
+Installing service SoftEdge Server Socker...
+Service SoftEdge Server Socker has been successfully installed.
+Creating EventLog source SoftEdge Server Socker in log Application...
+Committing assembly 'C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.InstallLog
+   assemblypath = C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.ServerSocket\bin\Debug\SoftEdge.Tracker.ServerSocket.exe

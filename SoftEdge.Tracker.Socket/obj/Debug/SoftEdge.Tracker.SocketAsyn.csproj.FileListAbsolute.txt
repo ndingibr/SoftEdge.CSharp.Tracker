@@ -1,0 +1,6 @@
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\bin\Debug\LahoreSocketAsync.dll
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\bin\Debug\LahoreSocketAsync.pdb
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\obj\Debug\SoftEdge.Tracker.SocketAsyn.csprojAssemblyReference.cache
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\obj\Debug\SoftEdge.Tracker.SocketAsyn.csproj.CoreCompileInputs.cache
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\obj\Debug\LahoreSocketAsync.dll
+C:\Thesis\VisualStudio\Phd\SoftEdge.Tracker.ServerSocket\SoftEdge.Tracker.Socket\obj\Debug\LahoreSocketAsync.pdb
